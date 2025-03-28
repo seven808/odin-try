@@ -1,1 +1,1 @@
-# odin-try
+This is something about program about Odin I try when I learn Web!
